@@ -1,0 +1,23 @@
+
+.jumbotron {
+  margin-bottom: 10px;
+}
+
+.pairInfo {
+  background-color: rgb(222, 232, 219);
+  padding: 5px 10px 20px 10px;
+  border-radius: 5px;
+  text-align: center;
+}
+
+#pairList {
+  background-color: rgb(217, 217, 217);
+  border-radius: 5px;
+  margin-top: 20px;
+  padding: 5px 10px 20px 10px;
+  list-style: none;
+}
+
+.pairListDiv {
+  font-size: 15pt;
+}
